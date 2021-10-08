@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/github/followers/zukhrufaa-memon?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
-  <a href="https://www.linkedin.com/in/zukhrufa-memon" target="_blank">
+  <a href="https://www.linkedin.com/in/zukhrufa-memon" />
 </a>
 <a href="https://www.instagram.com/zukhrufaa_m20/" target="_blank">
 </p>
