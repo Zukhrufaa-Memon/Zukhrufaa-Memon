@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Zukhrufaa-Memon">
-    <img src="https://img.shields.io/github/followers/Zukhrufa-Memon?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/zukhrufaa-memon?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
   <a href="https://www.linkedin.com/in/zukhrufa-memon" target="_blank">
