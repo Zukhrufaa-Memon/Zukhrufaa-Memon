@@ -1,12 +1,12 @@
 
 <p align="center">
-  <a href="https://github.com/Zukhrufaa-Memon?tab=followers">
+  <a href="https://github.com/Zukhrufaa-Memon">
     <img src="https://img.shields.io/github/followers/Zukhrufa-Memon?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
-  <a href="https://www.linkedin.com/in/zukhrufa-memon/" target="_blank">
+  <a href="https://www.linkedin.com/in/zukhrufa-memon" target="_blank">
 </a>
-<a href="https://www.instagram.com/zukhrufaa_m20" target="_blank">
+<a href="https://www.instagram.com/zukhrufaa_m20/" target="_blank">
 </p>
 
 ## Hey! This is Zukhrufa Memon! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -41,7 +41,5 @@
   
 
   
-
-### Show some ❤️ by starring some of the repositories!
 
 </div>
