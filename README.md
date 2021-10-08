@@ -31,8 +31,8 @@
 <hr>
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Zukhrufaa-Memon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Zukhrufaa_Memon&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=zukhrufaa-memon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=zukhrufaa-memon&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
   <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
