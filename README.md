@@ -14,7 +14,7 @@
 ## Hey! This is Zukhrufa Memon! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - ✍🏻 I'm a passionate developer.
-- 🔭 I’m currently working on Java & C++.
+- 🔭 I’m currently working with Flutter.
 - 💬 I'm learning Python also.
 
 
